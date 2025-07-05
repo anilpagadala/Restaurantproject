@@ -49,7 +49,7 @@ Follow the steps below to run the project locally.
 ## Clone the repository
 
 ```bash
-git clone https://github.com/anilpagadala/Resturantproject.git
+git clone https://github.com/anilpagadala/Restaurantproject.git
 cd Restaurantproject
 ```
 ## Create a virtual environment
